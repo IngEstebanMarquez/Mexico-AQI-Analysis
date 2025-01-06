@@ -1,0 +1,4 @@
+URL: https://www.kaggle.com/datasets/elianaj/mexico-air-quality-dataset
+Author:eliana kai juarez
+Description: Hourly air pollution and weather data for 100+ stations across Mexico
+License: CC0: Public Domain
